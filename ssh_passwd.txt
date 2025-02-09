@@ -1,19 +1,6 @@
-#
-# Honeypot SSH - All password order by length (length > 4)
-# Last update: 2015-04-05 22:05:02 UTC
-#
-  body { font-family:tahoma, verdana, arial, helvetica, sans; font-weight:normal; font-size:9pt; bac
 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
-#folder-stats, #foldercomment { margin-top:1em; padding-top:0.5em; border-top:1px solid #666;  }
-#files th a:hover { background:transparent; border-color:#fff; color:#fff; font-size:130%; }
 FARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 roooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooot
-a { text-decoration:none; color:#47c; border:1px solid transparent; padding:0 0.1em; }
-Rhosts authentication refused for %.100s: bad ownership or modes for home directory.
-<div style="font-family:tahoma, verdana, arial, helvetica, sans; font-size:8pt;">
-#files_outer { height:100%; overflow:auto; text-align:left; padding:0 1.6em; }
-#pages span { padding-left:0.5em; padding-right:0.5em; cursor:pointer; }
-#panel { float:left; margin-top:1em; margin-left:1em; max-width:250px; }
 @^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^localhost
 khaled-dico-ana-wla-akhou-charmouta-tfeh-kess-ekhtak-bi-ayri-a5ou-a7beh
 &@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@@^@^@^@^@^@^@.localhost.
@@ -130,7 +117,6 @@ roooooooooooooooooooooooooooooooooooooot
 ioesdkfjo234793871234y1uhdejrsk234745123
 WAQREWRYUTYI4363452343754DGSDFHDGGDSFDSF
 6cda33467f5432435408cc79d385157e3b11a1b8
-========================================
 20b9732ea10f2e428e9829bab83b62c7e7b7e40b
 10a34637ad661d98ba3344717656fcc76209c2f8
 1234567890)(*&^%$#@!1234567890qwertyuiop
@@ -146,7 +132,6 @@ hac.ksdks2763724jdh7846ry8dh!!@@##adele
 SDHSFGJSFG5473473FGJFSGJSfsghsgfy375345
 kmz82vw 211.233.63.56 eth0 SCANEAZA VNC
 viataeocurva-si-asa-va-ramane-totdeauna
-=======================================
 rooooooooooooooooooooooooooooooooooooot
 6e03da9fe9be7ef1cf18ddff6441d3eb455123
 roooooooooooooooooooooooooooooooooooot
@@ -221,8 +206,6 @@ saracutaveronicaisacamcoptpasarica
 1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol
 !qazxsw@#edcvfr$%tg!twork's4bruce?
 30cxx44qqccao5164d10324f1c533781d9
-#files .selector { display:none; }
-----------------------------------
 6e136e9da8372bc94899ecef857c540567
 $1$4UzUg9Tg$yg8DPUJhAhMRxaE6SM6Yl.
 !@#$%^&*()1234457890!@#$%^&*()7890
@@ -231,7 +214,6 @@ $1$rGEspa1r$4XhhKTz4LC7UBgKgp3WWw
 rooooooooooooooooooooooooooooooot
 %!SOJIE>COMFW%$#@!QWERTGFDSAZXCVB
 UIYORYIPRTEWFDJDHGKJRRTEWEGSDFHFS
-=================================
 $1$EdkQIoSn$T3gzKLxlcxF7tsTCFqC8M
 cappothebossradiopasiuniisthebest
 @!#$%&*Th3@#$!F0RcE%&*@#IS!@#$%!&
@@ -277,7 +259,6 @@ e1930b4927e6b6d92d120c7c1bba3421
 5c7adf644906a686587e7a9d823a1045
 052077ca059b4350d5f87496592351bc
 784ba0e9bc3542ce69fe744012564c08
-================================
 !@#$%^&*()1234567890!@#$%^&*()_+
 !q@w#e$r%t^y&!q@w#e$r%t^y&u*i(o)
 e29e2c1ce138ac36f9c8382e2be8f320
@@ -353,7 +334,6 @@ e07910a06a086c83ba41827aa00b26ed
 e9a6b6f8729ab5abda9d952ae6bb55ce
 706e642a056c7e894ed5a01e55700004
 ab7cedb40ff4dd3a8f0e73310e62e0cd
-------Brz-O-Baga-n-Mata---------
 e4401787ed37d2327eb8e5462d81b403
 a6c543c17fdd01439ff37f345a039992
 7bb75fbcf059ce9115a760cb9ca76abe
@@ -432,7 +412,6 @@ roooooooooooooooooooooooooooot
 ```###$$$p@rts1p3@sta$$$###```
 AxqoX8U6EE2QQOXKM9KFXFAlZPuyZp
 7brFFpnLPdJZPnhMshdO1hKcnwbleX
-==============================
 s8MDX6yN0JosDrzTrlu0nuZtXf0IXy
 #files tr { background:#fff; }
 !Q@W#E$R%T^Y!QA@WS#ED$RF%TG^YH
@@ -485,7 +464,6 @@ ooooooooooooooooooooooooooooo
 %%%%%%%160edu%*.com*(success)
 !@*(@HBsd8H!@#&@EDBAS*@B#!(BD
 rooooooooooooooooooooooooooot
-=============================
 Fidelu142muiesteaua8642jet184
 #78:VierzonRepublique00passwd
 virtualaus privataus serverio
